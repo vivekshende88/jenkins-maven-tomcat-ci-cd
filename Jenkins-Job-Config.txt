@@ -1,0 +1,5 @@
+Job Type: Freestyle Project
+Source Code: GitHub Repository
+Build Tool: Maven
+Build Goal: clean package
+Deployment: WAR file deployed to Tomcat server
